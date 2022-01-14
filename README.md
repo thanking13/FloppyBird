@@ -1,4 +1,6 @@
 # FloppyBird
+
+<img src="Documents/GitHub/flappybird/screens shots Floppy bird/Capture Floppybird.png"/>
 Floppy bird est un jeu mobile victime de son succé... 
 
 Floppy Bird est codé en HTML5, CSS3 et JS es6.
